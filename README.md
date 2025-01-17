@@ -1,0 +1,1 @@
+This repository demonstrates a common memory leak bug in C programming using malloc and memcpy.  The bug.c file contains the buggy code, while bugSolution.c provides a corrected version. The memory leak occurs because memory allocated using malloc is not properly freed. The solution demonstrates proper memory management practices.
